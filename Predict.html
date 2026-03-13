@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="static/bootstrap.min.css" rel="stylesheet">
+    <script src="static/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="container m-3">
+        <div class="row">
+            <div class="col">
+                <h1>Predict <span class="text-danger">Emotions</span> In Seconds</h1>
+                <p>Paste any text, select a model, and watch EmoSense break down the emotional landscape with confidence scores and insights.</p>
+            </div>
+            <div class="col border-2 border-light rounded-3 p-3">
+                <div class="row m-2">
+                    <p>Input Text</p>
+                    <textarea class="form-control" name="Input" id="Input"></textarea>
+                </div>
+                <div class="row m-2">
+                    <div class="col">
+                        <p>Select Model</p>
+                    <select class="form-select" name="Model" id="Model">
+                        <option value="CNN">CNN</option>
+                        <option value="Model2">Model 2</option>
+                        <option value="Model3">Model 3</option>
+                    </select>
+                    </div>
+                    <div class="col">
+                        <p>Language</p>
+                        <select class="form-select"  name="Model" id="Model">
+                            <option value="English">English</option>
+                            <option value="Model2">Model 2</option>
+                            <option value="Model3">Model 3</option>
+                        </select>
+                    </div>
+                    
+                    
+                </div>
+                <div class="row m-2">
+                    <button class="btn btn-warning rounded-5">Run Prediction</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
