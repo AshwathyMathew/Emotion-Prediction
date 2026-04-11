@@ -13,3 +13,6 @@ Output
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9fb38f53-a8fe-47c3-a07b-8fd5baf06211" />
 
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/30419c13-516c-414f-af2e-c8ab4fc6fa36" />
+
+Performance Chart
+<img width="361" height="218" alt="image" src="https://github.com/user-attachments/assets/186dc32a-7596-45c3-8dc1-1e92af661607" />
