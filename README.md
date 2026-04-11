@@ -5,3 +5,11 @@ To predict the emotion using deeplearning
 
 Test Emotion Prediction
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/acb4869a-bbc9-48cf-b467-4fa41d65c074" />
+
+Output
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6271470a-7838-4337-aa83-02ff23a65f13" />
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9fb38f53-a8fe-47c3-a07b-8fd5baf06211" />
+
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/30419c13-516c-414f-af2e-c8ab4fc6fa36" />
